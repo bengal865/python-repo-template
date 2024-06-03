@@ -29,7 +29,7 @@ Students will learn to:
 
 ## Getting Started
 
-> Start by reading the instructions and reviewing the project resources.
+> Please read the instructions and use the resources available to you
 
 Write a script that:
 
