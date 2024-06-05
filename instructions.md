@@ -29,8 +29,6 @@ Students will learn to:
 
 ## Getting Started
 
-> Please read the instructions and use the resources available to you
-
 Write a script that:
 
  - does X
