@@ -1,4 +1,4 @@
-# PRIMM: Activity Name / Solution File
+# PRIMM: Activity Name / Solution File / Python
 
 1. **Question**
     - *Answer*   
