@@ -1,3 +1,3 @@
-> Please take a minute or two to read the markdown (.md) instructions.
+> Please take a minute or two to read the instructions markdown (.md) file.
 >
 > Thank you.
